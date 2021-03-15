@@ -1,0 +1,3 @@
+[submodule "ProStack-updates"]
+	path = ProStack-updates
+	url = git@github.com:Brahialis0209/ProStack-updates.git
